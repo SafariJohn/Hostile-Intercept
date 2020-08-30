@@ -1,11 +1,11 @@
 {
-    "masterVersionFile":"https://bitbucket.org/SafariJohn/hostile-intercept/downloads/HostileIntercept.version",
+    "masterVersionFile":"https://github.com/SafariJohn/Hostile-Intercept/blob/master/HostileIntercept.version",
     "modName":"Hostile Intercept",
     "modThreadId":18909,
     "modVersion":
     {
         "major":1,
         "minor":3,
-        "patch":0
+        "patch":1
     }
 }
